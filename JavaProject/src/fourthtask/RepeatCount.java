@@ -5,7 +5,7 @@
  * Текст и слово вводится вручную.
  *
  * @author Andry Krasikov
- * @version November 15, 2019
+ * @version March 21, 2020
  */
 
 package fourthtask;
