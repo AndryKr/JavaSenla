@@ -6,7 +6,7 @@
  * Если пользователь некорректно введёт хотя бы одно из чисел, то сообщать об ошибке.
  *
  * @author Andry Krasikov
- * @version November 2, 2019
+ * @version March 20, 2020
  */
 package secondtask;
 import java.util.Scanner;
