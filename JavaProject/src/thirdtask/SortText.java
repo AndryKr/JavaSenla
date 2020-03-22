@@ -8,7 +8,7 @@
  * - Предложение вводится вручную. (Разделитель пробел (“ ”)).
  *
  * @author Andry Krasikov
- * @version November 13, 2019
+ * @version March 21, 2020
  */
 
 package thirdtask;
