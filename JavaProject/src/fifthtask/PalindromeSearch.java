@@ -17,7 +17,7 @@ public class PalindromeSearch {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        System.out.println("С целью поиска чисел-палиндром введите длину последовательности целых чисел от 0 до 100:");
+        System.out.println("С целью поиска чисел-палиндромов введите длину последовательности целых чисел от 0 до 100:");
         try {
             sequenceLength = scan.nextByte();
             if (sequenceLength>=0 && sequenceLength<=100) {
