@@ -6,7 +6,7 @@
  * Цель задачи заполнить рюкзак не превысив его грузоподъемность и максимизировать суммарную ценность груза.
  *
  * @author Andry Krasikov
- * @version November 17, 2019
+ * @version March 22, 2020
  */
 
 package sixthtask;
