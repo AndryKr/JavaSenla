@@ -5,7 +5,7 @@
  * (зеркальное значение равно оригинальному). Длина последовательности N вводится вручную и не должна превышать 100.
  *
  * @author Andry Krasikov
- * @version November 15, 2019
+ * @version March 22, 2020
  */
 
 package fifthtask;
