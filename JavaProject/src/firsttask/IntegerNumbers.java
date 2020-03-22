@@ -5,7 +5,7 @@
  * простым или составным.  Если пользователь введёт не целое число, то сообщать ему об ошибке.
  *
  * @author Andry Krasikov
- * @version November 2, 2019
+ * @version March 20, 2020
  */
 package firsttask;
 import java.util.Scanner;
